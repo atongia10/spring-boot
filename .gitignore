@@ -61,3 +61,7 @@ fabric.properties
 # Editor-based Rest Client
 .idea/httpRequests
 
+.idea/SpringBoot.iml
+.idea/modules.xml
+.idea/vcs.xml
+spring-boot.iml
