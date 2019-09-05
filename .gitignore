@@ -4,11 +4,16 @@
 # Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
 
 # User-specific stuff
+.idea
+*.iml
 .idea/**/workspace.xml
 .idea/**/tasks.xml
 .idea/**/usage.statistics.xml
 .idea/**/dictionaries
 .idea/**/shelf
+.idea/SpringBoot.iml
+.idea/modules.xml
+.idea/vcs.xml
 
 # Sensitive or high-churn files
 .idea/**/dataSources/
@@ -60,8 +65,4 @@ fabric.properties
 
 # Editor-based Rest Client
 .idea/httpRequests
-
-.idea/SpringBoot.iml
-.idea/modules.xml
-.idea/vcs.xml
-spring-boot.iml
+/.idea/SpringBoot.iml
